@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.viettech98.localizeplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.viettech98.localizeplugin.MyBundle
 
 class MyApplicationService {
 

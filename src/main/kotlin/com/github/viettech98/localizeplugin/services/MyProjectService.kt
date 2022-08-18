@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.viettech98.localizeplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.viettech98.localizeplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
